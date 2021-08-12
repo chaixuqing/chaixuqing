@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working as an intern at bytedance.
+- 🌱 I’m currently learning CMU 15-445/645.
+- 🤔 I usually use C++ and Objective-C.
 
 <!--
 **chaixuqing/chaixuqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
