@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning CMU 15-445/645.
 - 🤔 I usually use C++ and Objective-C.
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHub用户名)]()
+
 <!--
 **chaixuqing/chaixuqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
