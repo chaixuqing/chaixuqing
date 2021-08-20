@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as an intern at bytedance.
+- 🔭 I’m currently working as an intern at ByteDance.
 - 🌱 I’m currently learning CMU 15-445/645.
 - 🤔 I usually use C++ and Objective-C.
 
