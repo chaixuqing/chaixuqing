@@ -1,6 +1,6 @@
 - 🔭 I’m currently working as an intern at ByteDance.
 - 🌱 I’m currently learning CMU 15-445/645.
-- 🤔 I usually use C++ and Objective-C.
+- 🤔 I usually use C++ and Golang.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaixuqing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
