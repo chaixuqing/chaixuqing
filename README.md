@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning CMU 15-445/645.
 - 🤔 I usually use C++ and Golang.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaixuqing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **chaixuqing/chaixuqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=chaixuqing)]()
@@ -10,6 +10,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaixuqing" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaixuqing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
