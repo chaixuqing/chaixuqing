@@ -1,5 +1,5 @@
-- 🔭 I’m currently working as an intern at ByteDance.
-- 🌱 I’m currently learning CMU 15-445/645.
+- 🔭 I once worked as an intern at ByteDance.
+- 🌱 I’m currently learning CMU 15-721.
 - 🤔 I usually use C++ and Golang.
 
 
